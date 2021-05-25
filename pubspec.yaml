@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   synchronized: ^2.1.0
-  uuid: ^2.0.1
+  uuid: ^2.2.1
 
   flutter:
     sdk: flutter
